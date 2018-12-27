@@ -1,0 +1,13 @@
+## db.setting文件
+
+url = jdbc:mysql://39.168.187.30:3306/apidoc
+user = root
+pass = shiji159
+
+## 可选配置
+# 是否在日志中显示执行的SQL
+showSql = true
+# 是否格式化显示的SQL
+formatSql = true
+# 是否显示SQL参数
+showParams = true
